@@ -15,7 +15,7 @@ body {
 
 .borderline1 {
     height: 2px;
-    background-color: #FFC107;
+    background-color: #007bff;
 }
 
 @media (max-width: 768px) {
